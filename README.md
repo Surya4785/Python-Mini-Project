@@ -2,6 +2,8 @@ Description of this Self-Finance Management Project:
 
 This Self-Finance Management Project is a Python-based application designed to help individuals efficiently manage their personal finances. This project focuses on tracking income, expenses, savings, and investments while providing insights and analytics to improve financial decision-making.
 
+<p align="left"> <img src="Project page" /> </p>
+
 # Features:
 
 User Authentication:
